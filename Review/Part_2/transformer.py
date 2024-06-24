@@ -15,7 +15,6 @@ for s, e in start_end:
 print(*nums)
 
 
-
 # Second solution
 # n, x, y, a, b = [int(i) - 1 for i in input().split()]
 # nums = [i for i in range(1, n + 2)]
